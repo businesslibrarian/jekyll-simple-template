@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: Blog
-  link: jekyll-simple-template/blog
+  link: /blog
 - name: About
-  link: jekyll-simple-template/about
+  link: /about
 - name: Contact
-  link: jekyll-simple-template/contact
+  link: /contact
