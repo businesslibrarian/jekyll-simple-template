@@ -1,8 +1,8 @@
 - name: Home
-  link: https://github.com/businesslibrarian/jekyll-simple-template
+  link: https://businesslibrarian.github.io/jekyll-simple-template/
 - name: Blog
-  link: https://github.com/businesslibrarian/jekyll-simple-template/blog
+  link: https://businesslibrarian.github.io/jekyll-simple-template/blog
 - name: About
-  link: https://github.com/businesslibrarian/jekyll-simple-template/about
+  link: https://businesslibrarian.github.io/jekyll-simple-template/about
 - name: Contact
-  link: https://github.com/businesslibrarian/jekyll-simple-template/contact
+  link: https://businesslibrarian.github.io/jekyll-simple-template/contact
